@@ -1,2 +1,2 @@
-def test_first():
+def test_conflict():
     assert 56 > 1
